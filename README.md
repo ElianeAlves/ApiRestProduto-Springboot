@@ -38,6 +38,5 @@ Você pode executar sua aplicação em modo de desenvolvimento, que permite reca
 
 ## Dúvidas
 
-- Não tive dificuldade para criar o CRUD até o momento pois já tenho bastante prática para criar o básico.
+- Não tive dificuldade em entender e criar o projeto, porém segui as aulas por não estar habituada com a sintaxe do springboot; diferente do Quarkus que consegui criar o projeto completo com mais faclidade e quase sem auxilio do curso.
 - Notei algumas diferenças de código nos métodos em comparação com o Quarkus, por exemplo no PUT, pode passar o objeto completo no body com o id que ele identifica e já faz a atualização.
-- Apenas o ValidationExpectionMapper que criei com auxilio do GPT para formatar o retorno dos erros.
